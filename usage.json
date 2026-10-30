@@ -1,0 +1,14 @@
+{
+    "type": [
+        {"analytical": ""},
+        {"generative": ""},
+        {"collaborative": ""},
+        {"enabled": "the application used has AI features built in and run without user intervention."}
+    ],
+    "case": [
+        "audio",
+        "visual",
+        "textual",
+        "code"
+    ]
+}
