@@ -6,7 +6,7 @@
         {"prototyping": "LLM used to create assets where were replaced with human generated content"},
         {"enabled": "LLM features built into tool and run without user intervention."},
         {"logistic": "LLM used to coordinate and compile information not used in the final product."},
-        {"evaluation": "LLM used to verify function or checking against quantifiable values."}
+        {"evaluation": "LLM used to verify function or checking against verifiable values."}
     ],
     "case": [
         {"sound-effect": "audio non-musical, non verbal"},
