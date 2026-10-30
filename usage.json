@@ -1,14 +1,19 @@
 {
     "type": [
-        {"analytical": ""},
-        {"generative": ""},
-        {"collaborative": ""},
-        {"enabled": "the application used has AI features built in and run without user intervention."}
+        {"analytical": "LLM used to research, provide analysis during the creation process."},
+        {"generative": "LLM used to create assets, code that are used in the final product."},
+        {"collaborative": "LLM used to perform scaffolding or structure later built upon for the final product."},
+        {"prototyping": "LLM used to create assets where were replaced with human generated content"},
+        {"enabled": "LLM features built into tool and run without user intervention."},
+        {"logistic": "LLM used to coordinate and compile information not used in the final product."},
+        {"evaluation": "LLM used to verify function or other quantifiable values."}
     ],
     "case": [
-        "audio",
-        "visual",
-        "textual",
-        "code"
+        {"sound-effect": "audio non-musical, non verbal"},
+        {"music": "music"},
+        {"voice": "vocalization used for communication originating from an intelligence or psuedo-intelligence"},
+        {"visual": ""},
+        {"textual": "literature or writing"},
+        {"code": "logical instruction sets"}
     ]
 }
