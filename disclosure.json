@@ -1,6 +1,6 @@
 [
     {"ChatGPT": {
-            "type": ["analytical"],
+            "type": ["analytical","evaluative"],
             "case": ["textual"]
         }
     }
