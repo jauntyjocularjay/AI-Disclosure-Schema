@@ -12,7 +12,7 @@
         {"sound-effect": "audio non-musical, non verbal"},
         {"music": "music"},
         {"voice": "vocalization used for communication originating from an intelligence or psuedo-intelligence"},
-        {"visual": ""},
+        {"visual": "using the sense of sight"},
         {"textual": "literature or writing"},
         {"code": "logical instruction sets"}
     ]
