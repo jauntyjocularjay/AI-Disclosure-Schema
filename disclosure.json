@@ -1,4 +1,7 @@
-{
-    "type": ["analytical"],
-    "case": ["textual"]
-}
+[
+    {"ChatGPT": {
+            "type": ["analytical"],
+            "case": ["textual"]
+        }
+    }
+]
